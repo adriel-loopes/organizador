@@ -6,12 +6,13 @@ Este projeto é um sistema de gerenciamento de tarefas e projetos, desenvolvido 
 
 ## Tecnologias Utilizadas
 - **IDE**: VS Code / Studio
-- **Front-end**: HTML, CSS, JavaScript
-- **Back-end**: Definir com Adriel e Helder
+- **Front-end**: HTML, CSS, Python
+- **Python**:
 
 ### Equipe de Desenvolvimento
 - **Back-end**: Adriel, Helder
-- **Front-end**: Ewerton
+- **Front-end**: Ewerton, Geonobri, Fábio
+- - **API** Ewerton
 
 ---
 
