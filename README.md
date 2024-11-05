@@ -119,3 +119,15 @@ Este projeto é um sistema de gerenciamento de tarefas e projetos, desenvolvido 
 
 Este projeto segue um fluxo de desenvolvimento colaborativo. Qualquer dúvida sobre o código ou contribuições pode ser discutida com a equipe.
 
+
+
+## Instruções para Clonar o Repositório e Inicializar o Git
+
+1. **Clone o repositório**:
+   ```bash
+   git clone git@github.com:usuario/organizador.git
+-**INICIALIZAR O GITHUB** git init
+**ADICIONAR CÓDIGO** git add.
+**DAR VERSÃO** git commit -m "versao que quer"
+**CONSULTAR ULTIMA VERSÃO** git logs
+** ATUALIZAR COMMIT** git push origin main
