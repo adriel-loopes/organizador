@@ -12,7 +12,7 @@ Este projeto é um sistema de gerenciamento de tarefas e projetos, desenvolvido 
 ### Equipe de Desenvolvimento
 - **Back-end**: Adriel, Helder
 - **Front-end**: Ewerton, Geonobri, Fábio
-- - **API** Ewerton
+- **API**: Ewerton
 
 ---
 
