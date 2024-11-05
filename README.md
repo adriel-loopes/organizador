@@ -126,12 +126,12 @@ Este projeto segue um fluxo de desenvolvimento colaborativo. Qualquer dúvida so
 1. **Clone o repositório**:
    ```bash
    git clone git@github.com:usuario/organizador.git
--**INICIALIZAR O GITHUB** git init
+- **INICIALIZAR O GITHUB**   git init
 
-**ADICIONAR CÓDIGO** git add.
+- **ADICIONAR CÓDIGO**   git add.
 
-**DAR VERSÃO** git commit -m "versao que quer"
+- **DAR VERSÃO**   git commit -m "versao que quer"
 
-**CONSULTAR ULTIMA VERSÃO** git logs
+- **CONSULTAR ULTIMA VERSÃO**   git logs
 
-** ATUALIZAR COMMIT** git push origin main
+- ** ATUALIZAR COMMIT**   git push origin main
