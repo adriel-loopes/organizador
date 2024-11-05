@@ -20,7 +20,8 @@ Este projeto é um sistema de gerenciamento de tarefas e projetos, desenvolvido 
 
 ### Cores do Projeto
 - **Paleta**: Branco, Azul, Roxo, Preto
-- **Fonte**: Preferência por letras em preto
+- **Fonte**: Sanz Serif
+- oBS.: Preferência por letras em preto
 
 ### Tela de Login
 - Campos: **E-mail** e **Senha**
