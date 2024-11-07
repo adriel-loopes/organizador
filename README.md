@@ -5,14 +5,17 @@ Organizador de Tarefas
 Este projeto é um sistema de gerenciamento de tarefas e projetos, desenvolvido em HTML, CSS, e JavaScript. A interface é construída para exibir tarefas e projetos organizados, com funcionalidades como cards personalizáveis, opções de configuração, e suporte para sub-tarefas.
 
 ## Tecnologias Utilizadas
-- **IDE**: VS Code / Studio
-- **Front-end**: HTML, CSS, Python
-- **Python**:
+- **IDE**: VS Code / Studio 2022
+- **Front-end**
+- **Python**
+- **Sql Server**
 
 ### Equipe de Desenvolvimento
-- **Back-end**: Adriel, Helder
-- **Front-end**: Ewerton, Geonobri, Fábio
+- **Back-end**: Adriel, Helder, Edilson
+- **Front-end**: Ewerton, Geonobri, Fábio, Danilo
 - **API**: Ewerton
+- **Banco de dados**: Adriel
+- **Publicidade**: Edimilson
 
 ---
 
@@ -20,13 +23,14 @@ Este projeto é um sistema de gerenciamento de tarefas e projetos, desenvolvido 
 
 ### Cores do Projeto
 - **Paleta**: Branco, Azul, Roxo, Preto
-- **Fonte**: Sanz Serif
+- **Fonte**: Sanz Serif, Arial Black
 - oBS.: Preferência por letras em preto
 
 ### Tela de Login
 - Campos: **E-mail** e **Senha**
 - Funcionalidades adicionais:
-  - Opção de "Esqueceu a senha"
+  - Opção de "Esqueci a senha"
+  - Opção de Visualizar login
   - Botão de "Cadastrar"
   - Login com conta de terceiros
 
@@ -39,7 +43,10 @@ Este projeto é um sistema de gerenciamento de tarefas e projetos, desenvolvido 
 - Ícones opcionais nos projetos
 - Tarefas incluem opções de:
   - Marcar como **Concluído**
+  - Marcar como **Andamentoo**
+  - Marcar como **Não feito**
   - Agendamento com **Calendário**
+  - Modo Dark
 
 #### Cards Personalizáveis
 - Personalização de:
@@ -56,6 +63,8 @@ Este projeto é um sistema de gerenciamento de tarefas e projetos, desenvolvido 
   - **Criar Card**
   - **Consultar Cards**
   - Criar **Projetos** com funções
+  - **Calendário**
+  - **Insides**
 
 #### Funções Dentro do Card
 - Configurações de **Prioridade**
